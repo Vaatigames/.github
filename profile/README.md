@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://panel.vaatigames.ovh/img/vaati2.png"  />
+<img align="right" height="200" src="https://panel.vaatigames.ovh/vaatigames/vaati1.png"  />
 
 ###
 
